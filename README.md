@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bhavya
+# Hey there 👋, I'm Bhavya
 
 ## About me 🚀
 
@@ -12,7 +12,7 @@
 
 😄 Pronouns: he/him/his
 
-- ⚡ Fun fact: I like to solve interesting problems
+⚡ Fun fact: I like to solve interesting problems
 
 ## Skills
 
@@ -23,7 +23,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://logowik.com/c-vector-logo-1-3398.html)
 
 ### Frameworks and libraries
 
