@@ -6,9 +6,9 @@
 
 💻 Future Software engineer 
 
-📚 Currently practicing Data Structures and Algorithms 
+📚 Currently surviving
 
-🥾 I love going for hikes and travelling(I have been to 15+ countries) in general
+🥾 I love going for hikes and travelling(I have been to 20+ countries) in general
 
 😄 Pronouns: he/him/his
 
