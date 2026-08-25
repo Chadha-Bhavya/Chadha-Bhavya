@@ -1,18 +1,33 @@
-# Hey there 👋, I'm Bhavya
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Bhavya Chadha, software engineer and UBC Computer Science student" src="./assets/hero-light.svg" width="100%">
+</picture>
 
-## About me 🚀
+<p align="center">
+  Fourth-year Computer Science student at UBC. I build backend systems, cloud infrastructure, and practical AI tools.
+</p>
 
-🏫 Computer Science major @ UBC Vancouver
+<p align="center">
+  <a href="https://bhavyachadha.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/chadhabhavya">LinkedIn</a>
+</p>
 
-🥾 I love going for hikes and travelling(I have been to 20+ countries)
+<details>
+<summary><strong>A little more about me</strong></summary>
 
-😄 Pronouns: he/him/his
+```console
+$ whoami
+Fourth-year Computer Science student at UBC.
 
-⚡ Fun fact: I like to solve interesting problems
+$ right now
+Learning, building, and looking for the next hard problem.
 
-## Skills
+$ offline
+Hiking, travelling, and collecting stories from 20+ countries.
 
+$ rule of thumb
+Make it work. Make it clear. Then make it fast.
+```
 
-### Languages
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+</details>
