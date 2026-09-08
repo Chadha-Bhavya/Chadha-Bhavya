@@ -5,5 +5,5 @@
 </picture>
 
 <p align="center">
-  Fourth-year Computer Science student at UBC. I build backend systems, cloud infrastructure, and practical AI tools.
+  Fourth-year Computer Science student at UBC. I build backend systems.
 </p>
